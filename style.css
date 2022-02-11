@@ -1,0 +1,25 @@
+body{
+	background: #E6E6E6;
+}
+.one {
+	width: 1834px;
+	height: 1358px;
+	background: linear-gradient(180deg, #92DDC2 0%, #544E94 100%);
+	position: relative;
+
+}
+.two {
+	width: 337px;
+	height: 667px;
+	background: #0A0171;
+	border: 1px solid #FFFFFF;
+	border-radius: 30px;
+	position: absolute;
+	right: 730px;
+	top: 326px;
+	left: 729;
+	buttom: 365px;
+}
+img{
+	margin: 92px 99px 0px 99px;
+}
