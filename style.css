@@ -1,11 +1,38 @@
+*{
+	box-sizing: border-box;
+}
 body {
 	background: linear-gradient(180deg, #92DDC2 0%, #544E94 100%);
 	height: 1000px;
+	
 }
-.page {
+form {
 	margin: 100px auto;
-	width: 335px;
+	width: 375px;
+	text-align: center;
+	background: #0A0171;
+	color: #FFFFFF;
+	padding: 92px 20px 52px 20px;
+	border-radius: 20px;
 }
-.forms {
-
+img {
+	margin-bottom: 38px;
+}
+div {
+	margin-bottom: 20px;
+}
+input, button {
+	width: 335px;
+	height: 58px;
+	border-radius: 20px;
+	padding: 20px;
+	color: #FFFFFF;
+}
+input {
+	border: 1px solid #FFFFFF;
+	background: #0A0171;
+}
+button {
+	border: 1px solid #FFFFFF;
+	background: #2BC990;
 }
